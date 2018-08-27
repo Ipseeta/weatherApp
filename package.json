@@ -1,0 +1,21 @@
+{
+  "name": "weather-node-app",
+  "version": "1.0.0",
+  "description": "simple weather app using open-weathermap apis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "weather",
+    "nodeapp",
+    "weather-node-app"
+  ],
+  "author": "ipseeta priyadarshini",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "request": "^2.88.0"
+  }
+}
